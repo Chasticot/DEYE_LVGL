@@ -3,6 +3,7 @@
 Projet de code pour module ESP32-S3 avec afficheur LVGL
 
 Le code initial est généré par l'IA DeepSeek, avec pour info suivant :
+J'ai fourni a l'IA des codes devellopés pour un systeme enphase => https://drive.google.com/drive/folders/1aKCfj-2FablUkzhrhcJb7ESUlO13lffU?usp=sharing
 
 ======================================================================
 
@@ -186,7 +187,6 @@ Pour implémenter ce code:
 5. Page Graphiques (Historique)
 
 ![Page Graphiques]
-Copy
 
 ┌───────────────────────────────────────────────────────────────────────────────┐
 │  ↺ Retour                         HISTORIQUE                                │
